@@ -1,2 +1,2 @@
-# Weather Recogniton usin CNN and Transfer Learning
+# Weather Recogniton using CNN and Transfer Learning
  Weather recogniton using CNN
